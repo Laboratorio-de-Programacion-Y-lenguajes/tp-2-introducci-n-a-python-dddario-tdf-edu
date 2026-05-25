@@ -1,3 +1,5 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/X4xiTEDQ)
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=23462307)
 # TP 2 · Introducción a Python y Patrones de Prompting (GitHub Classroom)
 
 **Stack**: Python 3.13+, `pytest`, Git/GitHub Classroom (autograding)  
@@ -236,3 +238,6 @@ No hace falta link si el LLM no lo permite, pero sí el texto del prompt.
 - **No corre pytest**: asegurate de activar el entorno virtual `.venv` y correr `pip install -r requirements.txt`
 - **Falla un test**: leé el mensaje, muestra “esperado vs obtenido”
 - **Actions falla pero local pasa**: revisá versión de Python configurada y dependencias
+
+
+aa
